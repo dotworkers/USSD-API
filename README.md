@@ -1,2 +1,2 @@
-# Whitelabels API
-Whitelabels API project
+# USSD API
+Whitelabels USSD API project
